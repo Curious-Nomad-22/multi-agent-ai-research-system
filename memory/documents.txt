@@ -1,0 +1,365 @@
+AI startups are transforming healthcare.
+Productivity AI tools help automate work.
+RAG systems use retrieval augmented generation.
+Vector databases store embeddings for semantic search.
+Multi-agent systems coordinate specialized AI agents.
+Title: 12 Fastest Growing AI Productivity Tools Companies and Startups | Landbase
+
+Snippet: February 9, 2026 - Vertical AI solutions outpacing horizontal tools – Industry-specific solutions like Harvey (legal), Abridge (healthcare), and Hippocratic AI are achieving faster growth by solving domain-specific pain points with specialized AI models.
+
+Link: https://www.landbase.com/blog/fastest-growing-ai-productivity-tools
+
+-------------------
+
+Title: The best AI productivity tools in 2026 | Zapier
+
+Snippet: December 1, 2025 - Where other LLMs tread gray areas, Writer offers their proprietary LLMs and plenty of tools to make sure your content stays true. On top of it, Writer will help keep brand voice consistent for teams who collaborate on publishing.
+
+Link: https://zapier.com/blog/best-ai-productivity-tools/
+
+-------------------
+
+Title: The Most Effective Productivity Tools for Startups in 2026 | Get AI Perks
+
+Snippet: February 13, 2026 - We are a curated directory helping ... money on AI tools and cloud services. FOUNDING TEAM: Created by founders from top global accelerators including Antler, Techstars, Y Combinator, 500 Global, and Google for Startups. Our team understands the startup ecosystem firsthand and built this service to solve a real problem we experienced ...
+
+Link: https://www.getaiperks.com/en/articles/most-effective-productivity-tools-for-startups
+
+-------------------
+
+Title: Forbes 2026 AI 50 List | Top Artificial Intelligence Companies
+
+Snippet: 17 hours ago - The Forbes 2026 AI 50 List spotlights the most promising artificial intelligence businesses. See the leaders driving the future of AI.
+
+Link: https://www.forbes.com/lists/ai50/
+
+-------------------
+
+Title: Top AI Startups in 2025
+
+Snippet: October 13, 2025 - AI now powers over 6.2% of all global startups and accounts for nearly 9.2% of unicorns, underscoring its central role in shaping the innovation economy. Rather than chasing sci-fi fantasies, AI startups are solving real problems—boosting productivity, accelerating innovation, and transforming ...
+
+Link: https://www.startupblink.com/blog/top-ai-startups/
+
+-------------------
+
+
+Title: 15 AI Startups That Are Solving Real-Life Problems in 2025
+
+Snippet: Today, a new wave of AI startups is emerging with one goal: solve everyday problems with simple, useful, intelligent tools. Whether you're a business owner, a digital marketing professional using Facebook ads and Google ads, or someone who loves productivity hacks, these startups are reshaping how we work and live.
+
+Link: https://www.aiivine.com/article/ai-startups-that-are-solving-real-life-problems
+
+-------------------
+
+Title: 12 Fastest Growing AI Productivity Tools Companies and Startups
+
+Snippet: Discover the 12 fastest-growing AI productivity companies reshaping industries in 2025, from Cursor's $29.3B valuation to Anthropic's enterprise dominance, with complete funding details and leadership insights.
+
+Link: https://www.landbase.com/blog/fastest-growing-ai-productivity-tools
+
+-------------------
+
+Title: 69 Best Ai Productivity Startups to Watch in 2026
+
+Snippet: The Definitive Seedtable Ranking of Ai Productivity Startups We track 71,000+ companies and rank them dynamically using our Seedtable Score - a score that uses quantitative and qualitative data points to signal the momentum behind a company.
+
+Link: https://www.seedtable.com/best-ai-productivity-startups
+
+-------------------
+
+Title: Top 159 AI Startups 2026 | Funded by Sequoia, YC, A16Z
+
+Snippet: Top AI startups and new AI companies hiring now. Sort by valuation and recent funding. Funded by Sequoia, YC, A16Z, Benchmark - the very best.
+
+Link: https://topstartups.io/?industries=Artificial+Intelligence
+
+-------------------
+
+Title: AI Startups Positioned for Strong Growth in 2026 - Analytics Insight
+
+Snippet: Discover the top 10 fastest-growing AI startups to watch in 2026. Explore how these companies are using artificial intelligence to solve real-world problems across healthcare, climate, manufacturing, education, and energy.
+
+Link: https://www.analyticsinsight.net/artificial-intelligence/top-10-fastest-growing-ai-startups-to-watch-in-2026
+
+-------------------
+
+
+Title: Proprietary Medical Datasets in AI Healthcare Startups
+
+Snippet: In Series A data rooms for AI healthcare startups, contents related to proprietary medical datasets typically include detailed provenance (sources, acquisition, licensing); scale (e.g., number of records/images); diversity (demographics to mitigate…
+
+Link: https://grokipedia.com/page/Proprietary_Medical_Datasets_in_AI_Healthcare_Startups
+
+-------------------
+
+Title: 170 Healthcare Startups Funded by Sequoia, YC, A16Z (2026)
+
+Snippet: What they do: Helps startups give great healthcare to their teams Healthcare Artificial Intelligence · Quick facts: 📍HQ: Remote 11-50 employees Founded: 2021 · Funding: Andreessen Horowitz $38M Series A in 2024 · Take action: See who works here 🤝 Check company site 📌 View Jobs · What they do: Use AI to make mental healthcare more accessible Artificial Intelligence Healthcare
+
+Link: https://topstartups.io/?industries=Healthcare
+
+-------------------
+
+Title: Hippocratic AI | Safest Generative AI Healthcare Agent
+
+Snippet: September 22, 2025 - Hippocratic AI builds the safest generative AI healthcare agent for health systems, payors, and pharma. Over 180 million clinical interactions across 1,000+ use cases with 60+ partners worldwide. Our AI agents do not diagnose or prescribe.
+
+Link: https://hippocraticai.com/
+
+-------------------
+
+Title: Healthcare IT Startups funded by Y Combinator (YC) 2026 | Y Combinator
+
+Snippet: 5 days ago - Klara is the AI at the heart of Klarify. She handles notes, treatment plans, clinical letters, insurance claims, between-session resources, supervision prep, and finding new clients. Nearly 6,000 therapists use Klarify today. Our mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client. ... Scheduling Wizard is building the logistics infrastructure to modernize healthcare operations.
+
+Link: https://www.ycombinator.com/companies/industry/healthcare-it
+
+-------------------
+
+Title: Top Artificial Intelligence Companies in Healthcare
+
+Snippet: December 16, 2025 - Read about the biggest artificial intelligence companies in healthcare ranging from start-ups to tech giants to keep an eye on in the future.
+
+Link: https://medicalfuturist.com/top-artificial-intelligence-companies-in-healthcare
+
+-------------------
+
+[{'title': 'Top startups in Native AI in Healthcare in India (Jan, 2026) - Tracxn', 'snippet': 'January 11, 2026 - There are 123 Native AI in Healthcare startups in India which include Innovaccer, Eka Care, Doceree, Qure.ai, SigTuple.', 'link': 'https://tracxn.com/d/explore/native-ai-in-healthcare-startups-in-india/__KIHHuaBJBYBU6ve5YGXs1pco5pOrgob_2DWmjE7RKsw/companies'}, {'title': 'Top 10 HealthTech AI Startups to Know: The Builders Reshaping India’s Healthcare Future', 'snippet': 'March 30, 2026 - Sunita Kapoor, Founder & Director, City X-Ray & Scan Clinic, presented the award for Top 10 HealthTech AI Startups to Know to Janitri · Founded in 2016 by Arun Agarwal, Janitri set out with a focused mission to make fetal and maternal monitoring affordable and accessible across India. At a time when preventable maternal complications remain a systemic concern, Janitri built indigenous monitoring devices and digital platforms designed specifically for Indian hospital realities. Today, their solutions are being adopted across multiple healthcare institutions, and their recent collaboration with the Assam government signals expanding integration within public health systems.', 'link': 'https://www.digitalhealthnews.com/top-10-healthtech-ai-startups-to-know-the-builders-reshaping-india-s-healthcare-future'}, {'title': '3 Indian AI Startups That Are Quietly Revolutionizing Our Healthcare | by Soumyadeep Roy, PhD | Medium', 'snippet': 'July 15, 2025 - These startups represent the forefront of AI innovation in Indian healthcare, offering scalable solutions that improve diagnostics, monitoring, personalized treatment, and patient engagement.', 'link': 'https://medium.com/@soumyadeeproy/top-medical-ai-startups-from-india-in-2025-technology-and-impact-explained-9b71002d36b3'}, {'title': '5 Indian AI startup quietly making healthcare affordable - Krea', 'snippet': 'November 22, 2024 - Today, India’s healthtech market is being disrupted by 4K+ startups using AI and ML technologies to revolutionize healthcare end-to-end, from automated scanning of medical images, to providing virtual assistance for mental health and physical illness. In this article, we look at the business models developed by 5 such leading startups in this segment', 'link': 'https://krea.in/5-indian-ai-startups-making-healthcare-affordable/'}, {'title': 'Top AI Startups In India To Watch In 2026', 'snippet': '2 weeks ago - The best AI startups in India leading the market are Neysa (AI Infrastructure), Krutrim (Silicon & LLMs), Sarvam AI (Linguistic Models), and Qure.ai (Healthcare).', 'link': 'https://ipocentral.in/top-ai-startups-in-india/'}]
+[{'title': 'Top 50 AI Startups In London UK 2026 (Growing Companies)', 'snippet': 'In this article, we will cover the top 50 active AI startups in London for 2026, including their funding, founders, and the cutting-edge technology that sets them apart.', 'link': 'https://www.limelightdigital.co.uk/ai-startups-london/'}, {'title': 'Top AI Startups in London to Watch in 2026', 'snippet': 'Venture Capital And Government Funding Fueling London AI Startups. Here’s the thing. AI is not cheap. Talent, data and computing power all cost serious money. London has attracted billions in venture capital. On top of that...', 'link': 'https://cleartwo.co.uk/ai-startups-london-to-watch-in-2026/'}, {'title': 'Top AI Startups and Companies in London | Startups of London', 'snippet': 'In the United Kingdom alone, there are currently 1,136 and counting, high growth artificial intelligence companies. However, most of them are located in London. Here’s the list of the top AI startups in London and what you need to know about them.', 'link': 'https://startupsoflondon.com/top-ai-startups-and-companies-in-london/'}, {'title': 'Top 100 London Startups to Watch in 2026', 'snippet': "Explore London's 100 leading startups, from FinTech giants like Monzo to consumer tech innovators like Nothing. Get key data on funding, founders, and more.", 'link': 'https://www.failory.com/startups/london'}, {'title': 'Top 10 London Startups You Need to Know | StartUs Insights', 'snippet': 'Explore top London tech startups and their innovative contributions to manufacturing, healthcare, and education. Gain insights into their cutting-edge solutions and market impact. And, discover the funding, mentors, and accelerators driving growth in London’s vibrant ecosystem.', 'link': 'https://www.startus-insights.com/innovators-guide/london-startups/'}]
+[{'title': 'Top startups in Native AI in Healthcare in India (Jan, 2026) - Tracxn', 'snippet': 'January 11, 2026 - There are 123 Native AI in Healthcare startups in India which include Innovaccer, Eka Care, Doceree, Qure.ai, SigTuple.', 'link': 'https://tracxn.com/d/explore/native-ai-in-healthcare-startups-in-india/__KIHHuaBJBYBU6ve5YGXs1pco5pOrgob_2DWmjE7RKsw/companies'}, {'title': 'Top 10 HealthTech AI Startups to Know: The Builders Reshaping India’s Healthcare Future', 'snippet': 'March 30, 2026 - Sunita Kapoor, Founder & Director, City X-Ray & Scan Clinic, presented the award for Top 10 HealthTech AI Startups to Know to Janitri · Founded in 2016 by Arun Agarwal, Janitri set out with a focused mission to make fetal and maternal monitoring affordable and accessible across India. At a time when preventable maternal complications remain a systemic concern, Janitri built indigenous monitoring devices and digital platforms designed specifically for Indian hospital realities. Today, their solutions are being adopted across multiple healthcare institutions, and their recent collaboration with the Assam government signals expanding integration within public health systems.', 'link': 'https://www.digitalhealthnews.com/top-10-healthtech-ai-startups-to-know-the-builders-reshaping-india-s-healthcare-future'}, {'title': '3 Indian AI Startups That Are Quietly Revolutionizing Our Healthcare | by Soumyadeep Roy, PhD | Medium', 'snippet': 'July 15, 2025 - These startups represent the forefront of AI innovation in Indian healthcare, offering scalable solutions that improve diagnostics, monitoring, personalized treatment, and patient engagement.', 'link': 'https://medium.com/@soumyadeeproy/top-medical-ai-startups-from-india-in-2025-technology-and-impact-explained-9b71002d36b3'}, {'title': '5 Indian AI startup quietly making healthcare affordable - Krea', 'snippet': 'November 22, 2024 - Today, India’s healthtech market is being disrupted by 4K+ startups using AI and ML technologies to revolutionize healthcare end-to-end, from automated scanning of medical images, to providing virtual assistance for mental health and physical illness. In this article, we look at the business models developed by 5 such leading startups in this segment', 'link': 'https://krea.in/5-indian-ai-startups-making-healthcare-affordable/'}, {'title': 'Top 100 medical and healthcare startups in India 2026', 'snippet': 'Funding: $34.6M CureBay is a healthcare platform to connect patients in underserved markets to healthcare providers. ... Funding: $33.2M Dozee offers сontactless Remote Patient Monitoring (RPM) & AI-based triaging system ... Funding: $29.5M Wysa is an AI conversational agent that has been shown to help improve mental health ... Funding: $25.5M Cureskin is an AI powered application that provides derma care through mobile devices. ... Funding: $24.6M Pandorum Technologies is a biotechnology startup with a distinct synergy of life science and engineering competences focused on tissue engineering.', 'link': 'https://www.medicalstartups.org/country/India/'}]
+[{'title': 'Top 20 Healthcare Startups In India: AI & HealthTech', 'snippet': 'Reddy’s) remain top healthcare companies in India [1] . ... and e-health platforms have emerged as vital infrastructure in India’s healthcare mix ...', 'link': 'https://www.growthjockey.com/blogs/healthcare-startups-in-india'}, {'title': 'Top AI-Driven Indian Startups disrupting the Healthcare space -', 'snippet': 'Humn Health , founded in 2024, is an AI-driven healthtech startup dedicated to predictive healthcare and proactive risk management.', 'link': 'https://timesofstartups.com/india/top-ai-driven-indian-startups-disrupting-the-healthcare-space/'}, {'title': 'Top 10 Indian Startups Powering Healthcare with AI | AI', 'snippet': '... innovation, here are the top 10 Indian ... The post Top 10 Indian Startups Powering Healthcare with AI appeared first on Analytics India Magazine.', 'link': 'https://aidigitalnews.com/ai/top-10-indian-startups-powering-healthcare-with-ai/'}, {'title': 'Top 10 Indian AI Healthcare Startups Revolutionizing Medicine', 'snippet': 'Top Indian AI healthcare startups of 2025, mapped with their solutions and locations—showcasing the innovators transforming India’s health sector ...', 'link': 'https://irrespub.com/top-10-indian-ai-healthcare-startups-2025/'}, {'title': 'Leading AI Healthcare Startups in India - Analytics Drift', 'snippet': 'Another name among leading AI healthcare startups in India is SigTuple , which has been providing AI-based healthcare diagnostic solutions since 2015.', 'link': 'https://analyticsdrift.com/leading-ai-healthcare-startups-in-india/'}]
+[{'title': 'Top startups in Native AI in Healthcare in India (Jan, 2026) - Tracxn', 'snippet': 'January 11, 2026 - There are 123 Native AI in Healthcare startups in India which include Innovaccer, Eka Care, Doceree, Qure.ai, SigTuple.', 'link': 'https://tracxn.com/d/explore/native-ai-in-healthcare-startups-in-india/__KIHHuaBJBYBU6ve5YGXs1pco5pOrgob_2DWmjE7RKsw/companies'}, {'title': 'Top 10 HealthTech AI Startups to Know: The Builders Reshaping India’s Healthcare Future', 'snippet': 'March 30, 2026 - Sunita Kapoor, Founder & Director, City X-Ray & Scan Clinic, presented the award for Top 10 HealthTech AI Startups to Know to Janitri · Founded in 2016 by Arun Agarwal, Janitri set out with a focused mission to make fetal and maternal monitoring affordable and accessible across India. At a time when preventable maternal complications remain a systemic concern, Janitri built indigenous monitoring devices and digital platforms designed specifically for Indian hospital realities. Today, their solutions are being adopted across multiple healthcare institutions, and their recent collaboration with the Assam government signals expanding integration within public health systems.', 'link': 'https://www.digitalhealthnews.com/top-10-healthtech-ai-startups-to-know-the-builders-reshaping-india-s-healthcare-future'}, {'title': '3 Indian AI Startups That Are Quietly Revolutionizing Our Healthcare | by Soumyadeep Roy, PhD | Medium', 'snippet': 'July 15, 2025 - These startups represent the forefront of AI innovation in Indian healthcare, offering scalable solutions that improve diagnostics, monitoring, personalized treatment, and patient engagement.', 'link': 'https://medium.com/@soumyadeeproy/top-medical-ai-startups-from-india-in-2025-technology-and-impact-explained-9b71002d36b3'}, {'title': '5 Indian AI startup quietly making healthcare affordable - Krea', 'snippet': 'November 22, 2024 - Today, India’s healthtech market is being disrupted by 4K+ startups using AI and ML technologies to revolutionize healthcare end-to-end, from automated scanning of medical images, to providing virtual assistance for mental health and physical illness. In this article, we look at the business models developed by 5 such leading startups in this segment', 'link': 'https://krea.in/5-indian-ai-startups-making-healthcare-affordable/'}, {'title': 'Top 100 medical and healthcare startups in India 2026', 'snippet': 'Funding: $218.5M MediBuddy is a digital healthcare platform for inpatient hospitalization, outpatient services, and corporate wellness benefits. ... Funding: $181M Pristyn Care is Health Care Startup that is disrupting Day Care Procedures. ... Funding: $125M Zopper works with insurance providers to create smaller and personalized insurance products that it supplies to distribution partners. ... Funding: $125.3M Qure.ai builds deep learning solutions that aid physicians with routine diagnosis and treatment, allowing them to spend more time with patients', 'link': 'https://www.medicalstartups.org/country/India/'}]
+[{'title': 'Top startups in Native AI in Healthcare in India (Jan, 2026) - Tracxn', 'snippet': 'January 11, 2026 - There are 123 Native AI in Healthcare startups in India which include Innovaccer, Eka Care, Doceree, Qure.ai, SigTuple.', 'link': 'https://tracxn.com/d/explore/native-ai-in-healthcare-startups-in-india/__KIHHuaBJBYBU6ve5YGXs1pco5pOrgob_2DWmjE7RKsw/companies'}, {'title': 'Top 10 HealthTech AI Startups to Know: The Builders Reshaping India’s Healthcare Future', 'snippet': 'March 30, 2026 - Sunita Kapoor, Founder & Director, City X-Ray & Scan Clinic, presented the award for Top 10 HealthTech AI Startups to Know to Janitri · Founded in 2016 by Arun Agarwal, Janitri set out with a focused mission to make fetal and maternal monitoring affordable and accessible across India. At a time when preventable maternal complications remain a systemic concern, Janitri built indigenous monitoring devices and digital platforms designed specifically for Indian hospital realities. Today, their solutions are being adopted across multiple healthcare institutions, and their recent collaboration with the Assam government signals expanding integration within public health systems.', 'link': 'https://www.digitalhealthnews.com/top-10-healthtech-ai-startups-to-know-the-builders-reshaping-india-s-healthcare-future'}, {'title': '3 Indian AI Startups That Are Quietly Revolutionizing Our Healthcare | by Soumyadeep Roy, PhD | Medium', 'snippet': 'July 15, 2025 - These startups represent the forefront of AI innovation in Indian healthcare, offering scalable solutions that improve diagnostics, monitoring, personalized treatment, and patient engagement.', 'link': 'https://medium.com/@soumyadeeproy/top-medical-ai-startups-from-india-in-2025-technology-and-impact-explained-9b71002d36b3'}, {'title': '5 Indian AI startup quietly making healthcare affordable - Krea', 'snippet': 'November 22, 2024 - Today, India’s healthtech market is being disrupted by 4K+ startups using AI and ML technologies to revolutionize healthcare end-to-end, from automated scanning of medical images, to providing virtual assistance for mental health and physical illness. In this article, we look at the business models developed by 5 such leading startups in this segment', 'link': 'https://krea.in/5-indian-ai-startups-making-healthcare-affordable/'}, {'title': 'Top 100 medical and healthcare startups in India 2026', 'snippet': 'Funding: $218.5M MediBuddy is a digital healthcare platform for inpatient hospitalization, outpatient services, and corporate wellness benefits. ... Funding: $181M Pristyn Care is Health Care Startup that is disrupting Day Care Procedures. ... Funding: $125M Zopper works with insurance providers to create smaller and personalized insurance products that it supplies to distribution partners. ... Funding: $125.3M Qure.ai builds deep learning solutions that aid physicians with routine diagnosis and treatment, allowing them to spend more time with patients', 'link': 'https://www.medicalstartups.org/country/India/'}]
+[{'title': '10 Indian Startups Transforming Healthcare with AI (2025) : Desi AI', 'snippet': 'AI healthcare startups India are driving the transformation of the country’s healthcare sector, making it smarter and more accessible. From early disease detection to faster, more accurate diagnostics, AI is tackling some of India’s biggest health challenges.', 'link': 'https://www.desiai.ai/indian-startups-transforming-healthcare-with-ai/'}, {'title': 'Top Indian AI Healthtech Startups Transforming Healthcare in 2025', 'snippet': 'Explore the best Indian AI healthcare startups in 2025, transforming diagnostics, monitoring, and preventive care with innovations from Qure.ai, Niramai, SigTuple, and more.Which are the Top 10 Indian Startups in the AI Healthcare Sector in 2025?', 'link': 'https://www.analyticsinsight.net/artificial-intelligence/10-best-indian-startups-using-ai-to-transform-healthcare-in-2025'}, {'title': '5 AI healthcare startups in India | YourStory', 'snippet': 'Artificial intelligence (AI) is currently being employed in various sectors including healthcare amid the debate on its accuracy and data privacy issues.Several startups in India have been experimenting with AI for quite some time. Here are five innovative AI healthcare startups.', 'link': 'https://yourstory.com/2023/05/artificial-intelligence-healthcare-startups-india'}, {'title': 'Inside India’s AI Healthcare Startups: Transforming Patient Care with...', 'snippet': 'AI healthcare startups in India are not just innovating—they’re saving lives. By harnessing advanced algorithms, robust funding, and deep partnerships, these startups are setting new standards for patient care and transforming the healthcare landscape across the nation.', 'link': 'https://www.linkedin.com/pulse/inside-indias-ai-healthcare-startups-transforming-patient-banerjee-m0ppc'}, {'title': 'Top 10 Indian AI Healthcare Startups Revolutionizing Medicine in 2025', 'snippet': 'Top Indian AI healthcare startups of 2025, mapped with their solutions and locations—showcasing the innovators transforming India’s health sector with artificial intelligence.', 'link': 'https://irrespub.com/top-10-indian-ai-healthcare-startups-2025/'}]
+
+
+RESULT 1
+
+TITLE:
+Top AI Startups in India 2026: Updated List & Analysis | UpForge
+
+SUMMARY:
+Comprehensive list of India's top AI startups in 2026 across generative AI, computer vision, NLP, and enterprise AI. Funding details, founding teams, and sector analysis.
+
+SOURCE LINK:
+https://www.upforge.org/blog/top-ai-startups-india-2026
+
+========================
+
+
+RESULT 2
+
+TITLE:
+Top 10 AI Startups to Watch in India 2025 | AGI House India
+
+SUMMARY:
+India's largest AI community — 97 city chapters connecting AI founders, engineers, researchers, and investors. Discover AI startups, jobs, and ecosystem data across India.
+
+SOURCE LINK:
+https://www.agihouse.in/blog/top-10-ai-startups-india-2025
+
+========================
+
+
+RESULT 3
+
+TITLE:
+Top 10 AI Startups In India
+
+SUMMARY:
+In India, AI startups first appeared in 2016. Over the next two years, the AI startup industry will experience astounding growth. A recent report states that Bengaluru, India’s startup hub, received funding for $87.85 million for the AI sector.
+
+SOURCE LINK:
+https://www.linkedin.com/pulse/top-10-ai-startups-india-surekha-dagimeti-kuu0c
+
+========================
+
+
+RESULT 4
+
+TITLE:
+Top 100 India Startups to Watch in 2026
+
+SUMMARY:
+Get to know India's 100 leading startups. Our list covers key players from Zepto to Polygon, with details on their funding, investors, and growth.
+
+SOURCE LINK:
+https://www.failory.com/startups/india
+
+========================
+
+
+RESULT 5
+
+TITLE:
+What are the best AI startups in India? - Smartly AI
+
+SUMMARY:
+India ranks among the top countries in AI innovation, leveraging its unique market scale and tech expertise. Conclusion. India’s AI startup scene is a powerhouse of innovation, driven by visionary entrepreneurs and supported by a thriving ecosystem.
+
+SOURCE LINK:
+https://smartlyai.in/what-are-the-best-ai-startups-in-india/
+
+========================
+
+
+
+RESULT 1
+
+TITLE:
+100 Top AI (Artificial Intelligence) Companies in India - F6S
+
+SUMMARY:
+Detailed info and reviews on 100 top AI (Artificial Intelligence) companies and startups in India in 2026. Get the latest updates on their products, jobs, funding, investors, founders and more.
+
+SOURCE LINK:
+https://www.f6s.com/companies/artificial-intelligence/india/co
+
+========================
+
+
+RESULT 2
+
+TITLE:
+100 Top AI Start-ups in India 2026: Ecosystem Report & Insights
+
+SUMMARY:
+This report titled, " 100 Top AI Start-ups in India, " is our attempt to answer that. Because beneath the noise of GenAI hype, India's AI ecosystem is quietly moving from experimentation to execution, from pilots to production, from wrappers to real systems, from ambition to outcomes.
+
+SOURCE LINK:
+https://zinnov.com/innovation/100-top-ai-start-ups-in-india-the-2026-report/
+
+========================
+
+
+RESULT 3
+
+TITLE:
+Top 50 Best AI Startup Companies in India 2026 | AI Leaders
+
+SUMMARY:
+Top AI Startup Companies in India (2026 List & Industry Insights) India has emerged as one of the fastest-growing artificial intelligence ecosystems globally. AI startup companies in India are building scalable enterprise solutions across healthcare, fintech, logistics, manufacturing, retail, and customer experience industries.
+
+SOURCE LINK:
+https://www.sutrahr.com/top-ai-startup-companies/
+
+========================
+
+
+RESULT 4
+
+TITLE:
+PDF India_Top_100_AI_Startups_Report_2026_digital march_26
+
+SUMMARY:
+India is no longer an emerging player in AI, it is a proving ground for how AI will be built, deployed, and scaled for the world. The 100 start-ups in this report are not riding a wave; they are shaping the contours of a new, distinctly Indian AI playbook. For investors, this is a moment to act with conviction, not caution.
+
+SOURCE LINK:
+https://www.indiaspora.org/wp-content/uploads/2026/03/Top100AIStartupsIndia.pdf
+
+========================
+
+
+RESULT 5
+
+TITLE:
+Top 20 AI Startups in India | 2028 | bestStartup
+
+SUMMARY:
+India's artificial intelligence scene is transforming rapidly, and AI startups in India are now leading global conversations on innovation. If you want to stay ahead of the curve, these are the top 20 AI startups in India you need to follow into 2028. From generative AI pioneers to medical diagnostics innovators, these companies are pushing boundaries—from Bengaluru's language labs to ...
+
+SOURCE LINK:
+https://beststartup.in/top-20-ai-startups-in-india-2028-to-watch/
+
+========================
+
+
+
+RESULT 1
+
+TITLE:
+Top AI Startups in India
+
+SUMMARY:
+As I reflect on the journey of these emerging AI startups in India, it’s clear that their potential goes far beyond national borders.
+
+SOURCE LINK:
+https://www.layaksingh.com/post/discover-emerging-ai-startups-in-india
+
+========================
+
+
+RESULT 2
+
+TITLE:
+India’s Top 5 AI startups: Here is what they do and what
+
+SUMMARY:
+India s Top 5 AI startups: Here is what they do and what their ... India ’ s Top 5 AI startups: Here is what they do and what their LLMs do
+
+SOURCE LINK:
+https://indianexpress.com/article/technology/tech-news-technology/indias-top-5-ai-startups-here-is-what-the-do-and-what-their-llms-are-10353903/
+
+========================
+
+
+RESULT 3
+
+TITLE:
+Top 10 AI Startups in India
+
+SUMMARY:
+Top 10 AI Startups in India , discover the cutting-edge innovations shaping the future with our comprehensive list.
+
+SOURCE LINK:
+https://pioneertoday.in/top-10-ai-startups-in-india/
+
+========================
+
+
+RESULT 4
+
+TITLE:
+Top 5 AI Startups In India. - WireUnwired Research
+
+SUMMARY:
+Top 5 AI Startups In India. ... time to look at India’s A.I startups and evaluate the top A.I startups In India ... Top 5 AI startups in India.
+
+SOURCE LINK:
+https://wireunwired.com/top-5-ai-startups-in-india/
+
+========================
+
+
+RESULT 5
+
+TITLE:
+Top AI Startups in India 2025 | TechRound
+
+SUMMARY:
+With a large pool of highly qualified engineers, increasing government support and robust venture capital interest, Indian AI startups are not merely ...
+
+SOURCE LINK:
+https://techround.co.uk/startups/top-ai-startups-in-india-2025/
+
+========================
+
+[{'title': '100 Top AI (Artificial Intelligence) Companies in India · May ...', 'snippet': 'May 1, 2026 · Detailed info and reviews on 100 top AI (Artificial Intelligence) companies and startups in India in 2026. Get the latest updates on their products, jobs, funding, investors, founders and more.', 'link': 'https://www.f6s.com/companies/artificial-intelligence/india/co'}, {'title': 'Top 50 AI-Ready Indian Startups 2026 - Times of Startups', 'snippet': 'Feb 27, 2026 · Discover the Top 50 AI-Ready Indian Startups 2026 shaping India’s AI-first future across fintech, SaaS, healthcare, logistics, agritech, and infrastructure. An exclusive report by Times of Startups.', 'link': 'https://timesofstartups.com/artificial-intelligence-2/top-50-ai-ready-indian-startups-2026/'}, {'title': 'Top 50 Best AI Startup Companies in India 2026 | AI Leaders', 'snippet': 'Explore 50 ai startup companies in India for 2026, including Fractal Analytics, Haptik AI, Qure.ai, Yellow.ai, and more driving innovation and business growth.', 'link': 'https://www.sutrahr.com/top-ai-startup-companies/'}, {'title': 'Top 20 AI Startups in India | 2028 | bestStartup', 'snippet': 'Jul 31, 2025 · If you want to stay ahead of the curve, these are the top 20 AI startups in India you need to follow into 2028. From generative AI pioneers to medical diagnostics innovators, these companies are pushing boundaries—from Bengaluru’s language labs to Delhi’s cyber defense hubs.', 'link': 'https://beststartup.in/top-20-ai-startups-in-india-2028-to-watch/'}, {'title': '100 Top AI Start-ups in India 2026: Ecosystem Report & Insights', 'snippet': 'Mar 25, 2026 · Top AI start-ups in India are no longer experimenting but scaling real-world AI, and this report unpacks the 100 companies leading that shift', 'link': 'https://zinnov.com/innovation/100-top-ai-start-ups-in-india-the-2026-report/'}]
+[{'title': 'Top AI Startups in India 2026: Updated List & Analysis | UpForge', 'snippet': "Comprehensive list of India's top AI startups in 2026 across generative AI, computer vision, NLP, and enterprise AI. Funding details, founding teams, and sector analysis.", 'link': 'https://www.upforge.org/blog/top-ai-startups-india-2026'}, {'title': 'MUST KNOW, Top AI Startups in India.', 'snippet': "4. Doxper is Health tech startup which has created a digital pen and coded paper system for doctors to record patient information. Doxper's top competitors are iRxClinics, Rax Technology and WonDRx.", 'link': 'https://www.linkedin.com/pulse/must-know-top-ai-startups-india-anil-sharma'}, {'title': 'Top 10 AI Startups to Watch in India 2025 | AGI House India', 'snippet': "India's largest AI community — 97 city chapters connecting AI founders, engineers, researchers, and investors. Discover AI startups, jobs, and ecosystem data across India.", 'link': 'https://www.agihouse.in/blog/top-10-ai-startups-india-2025'}, {'title': 'Top 100 India Startups to Watch in 2026', 'snippet': "Get to know India's 100 leading startups. Our list covers key players from Zepto to Polygon, with details on their funding, investors, and growth.", 'link': 'https://www.failory.com/startups/india'}, {'title': 'What are the best AI startups in India? - Smartly AI', 'snippet': 'India ranks among the top countries in AI innovation, leveraging its unique market scale and tech expertise. Conclusion. India’s AI startup scene is a powerhouse of innovation, driven by visionary entrepreneurs and supported by a thriving ecosystem.', 'link': 'https://smartlyai.in/what-are-the-best-ai-startups-in-india/'}]
+[{'title': '100 Top AI (Artificial Intelligence) Companies in India · May ...', 'snippet': 'May 1, 2026 · Detailed info and reviews on 100 top AI (Artificial Intelligence) companies and startups in India in 2026. Get the latest updates on their products, jobs, funding, investors, founders and more.', 'link': 'https://www.f6s.com/companies/artificial-intelligence/india/co'}, {'title': 'Top 50 AI-Ready Indian Startups 2026 - Times of Startups', 'snippet': 'Feb 27, 2026 · Discover the Top 50 AI-Ready Indian Startups 2026 shaping India’s AI-first future across fintech, SaaS, healthcare, logistics, agritech, and infrastructure. An exclusive report by Times of Startups.', 'link': 'https://timesofstartups.com/artificial-intelligence-2/top-50-ai-ready-indian-startups-2026/'}, {'title': 'Top 50 Best AI Startup Companies in India 2026 | AI Leaders', 'snippet': 'Explore 50 ai startup companies in India for 2026, including Fractal Analytics, Haptik AI, Qure.ai, Yellow.ai, and more driving innovation and business growth.', 'link': 'https://www.sutrahr.com/top-ai-startup-companies/'}, {'title': 'Top 20 AI Startups in India | 2028 | bestStartup', 'snippet': 'Jul 31, 2025 · If you want to stay ahead of the curve, these are the top 20 AI startups in India you need to follow into 2028. From generative AI pioneers to medical diagnostics innovators, these companies are pushing boundaries—from Bengaluru’s language labs to Delhi’s cyber defense hubs.', 'link': 'https://beststartup.in/top-20-ai-startups-in-india-2028-to-watch/'}, {'title': '100 Top AI Start-ups in India 2026: Ecosystem Report & Insights', 'snippet': 'Mar 25, 2026 · Top AI start-ups in India are no longer experimenting but scaling real-world AI, and this report unpacks the 100 companies leading that shift', 'link': 'https://zinnov.com/innovation/100-top-ai-start-ups-in-india-the-2026-report/'}]
+[{'title': 'Top AI Startups in India 2026: Updated List & Analysis | UpForge', 'snippet': "Comprehensive list of India's top AI startups in 2026 across generative AI, computer vision, NLP, and enterprise AI. Funding details, founding teams, and sector analysis.", 'link': 'https://www.upforge.org/blog/top-ai-startups-india-2026'}, {'title': 'Top 10 AI Startups to Watch in India 2025 | AGI House India', 'snippet': "India's largest AI community — 97 city chapters connecting AI founders, engineers, researchers, and investors. Discover AI startups, jobs, and ecosystem data across India.", 'link': 'https://www.agihouse.in/blog/top-10-ai-startups-india-2025'}, {'title': 'Top 10 AI Startups In India', 'snippet': 'In India, AI startups first appeared in 2016. Over the next two years, the AI startup industry will experience astounding growth. A recent report states that Bengaluru, India’s startup hub, received funding for $87.85 million for the AI sector.', 'link': 'https://www.linkedin.com/pulse/top-10-ai-startups-india-surekha-dagimeti-kuu0c'}, {'title': 'Top 100 India Startups to Watch in 2026', 'snippet': "Get to know India's 100 leading startups. Our list covers key players from Zepto to Polygon, with details on their funding, investors, and growth.", 'link': 'https://www.failory.com/startups/india'}, {'title': 'What are the best AI startups in India? - Smartly AI', 'snippet': 'India ranks among the top countries in AI innovation, leveraging its unique market scale and tech expertise. Conclusion. India’s AI startup scene is a powerhouse of innovation, driven by visionary entrepreneurs and supported by a thriving ecosystem.', 'link': 'https://smartlyai.in/what-are-the-best-ai-startups-in-india/'}]
+[{'title': 'PDF India_Top_100_AI_Startups_Report_2026_digital march_26', 'snippet': 'India is no longer an emerging player in AI, it is a proving ground for how AI will be built, deployed, and scaled for the world. The 100 start-ups in this report are not riding a wave; they are shaping the contours of a new, distinctly Indian AI playbook. For investors, this is a moment to act with conviction, not caution.', 'link': 'https://www.indiaspora.org/wp-content/uploads/2026/03/Top100AIStartupsIndia.pdf'}, {'title': '100 Top AI (Artificial Intelligence) Companies in India - F6S', 'snippet': 'Detailed info and reviews on 100 top AI (Artificial Intelligence) companies and startups in India in 2026. Get the latest updates on their products, jobs, funding, investors, founders and more.', 'link': 'https://www.f6s.com/companies/artificial-intelligence/india/co'}, {'title': 'Top 50 AI-Ready Indian Startups 2026 | Times of Startups', 'snippet': "Discover the Top 50 AI-Ready Indian Startups 2026 shaping India's AI-first future across fintech, SaaS, healthcare, logistics, agritech, and infrastructure. An exclusive report by Times of Startups.", 'link': 'https://timesofstartups.com/artificial-intelligence-2/top-50-ai-ready-indian-startups-2026/'}, {'title': 'Top 50 Best AI Startup Companies in India 2026 | AI Leaders', 'snippet': 'Top AI Startup Companies in India (2026 List & Industry Insights) India has emerged as one of the fastest-growing artificial intelligence ecosystems globally. AI startup companies in India are building scalable enterprise solutions across healthcare, fintech, logistics, manufacturing, retail, and customer experience industries.', 'link': 'https://www.sutrahr.com/top-ai-startup-companies/'}, {'title': '100 Top AI Start-ups in India 2026: Ecosystem Report & Insights', 'snippet': 'This report titled, " 100 Top AI Start-ups in India, " is our attempt to answer that. Because beneath the noise of GenAI hype, India\'s AI ecosystem is quietly moving from experimentation to execution, from pilots to production, from wrappers to real systems, from ambition to outcomes.', 'link': 'https://zinnov.com/innovation/100-top-ai-start-ups-in-india-the-2026-report/'}]
+[{'title': 'Top AI Startups in India', 'snippet': 'As I reflect on the journey of these emerging AI startups in India, it’s clear that their potential goes far beyond national borders.', 'link': 'https://www.layaksingh.com/post/discover-emerging-ai-startups-in-india'}, {'title': 'India’s Top 5 AI startups: Here is what they do and what', 'snippet': 'India s Top 5 AI startups: Here is what they do and what their ... India ’ s Top 5 AI startups: Here is what they do and what their LLMs do', 'link': 'https://indianexpress.com/article/technology/tech-news-technology/indias-top-5-ai-startups-here-is-what-the-do-and-what-their-llms-are-10353903/'}, {'title': 'Top 10 AI Startups in India', 'snippet': 'Top 10 AI Startups in India , discover the cutting-edge innovations shaping the future with our comprehensive list.', 'link': 'https://pioneertoday.in/top-10-ai-startups-in-india/'}, {'title': 'Top 5 AI Startups In India. - WireUnwired Research', 'snippet': 'Top 5 AI Startups In India. ... time to look at India’s A.I startups and evaluate the top A.I startups In India ... Top 5 AI startups in India.', 'link': 'https://wireunwired.com/top-5-ai-startups-in-india/'}, {'title': 'Top AI Startups in India 2025 | TechRound', 'snippet': 'With a large pool of highly qualified engineers, increasing government support and robust venture capital interest, Indian AI startups are not merely ...', 'link': 'https://techround.co.uk/startups/top-ai-startups-in-india-2025/'}]
+[{'title': 'Top 10 Indian AI Healthcare Startups Revolutionizing Medicine ...', 'snippet': 'Nov 16, 2025 · These “Indian AI healthcare startups” are making quality care affordable, accessible, and timely for millions. This blog identifies the top 10 disruptors, with their missions, innovations, and impact, helping you stay ahead in healthtech trends for 2025.', 'link': 'https://irrespub.com/top-10-indian-ai-healthcare-startups-2025/'}, {'title': 'Top 20 Healthcare Startups In India: AI & HealthTech Companies', 'snippet': 'Feb 13, 2026 · India’s top healthcare startups in 2026 include PharmEasy, Tata 1mg, Practo, MediBuddy, Qure.ai and Innovaccer driving HealthTech and MedTech innovation.', 'link': 'https://www.growthjockey.com/blogs/healthcare-startups-in-india'}, {'title': 'Top startups in Native AI in Healthcare in India (Jan, 2026 ...', 'snippet': 'Jan 11, 2026 · Discover the top emerging companies in the Native AI in Healthcare Startups in India, their funding activity, key investors, company highlights, and growth stages', 'link': 'https://tracxn.com/d/explore/native-ai-in-healthcare-startups-in-india/__KIHHuaBJBYBU6ve5YGXs1pco5pOrgob_2DWmjE7RKsw/companies'}, {'title': 'Top Indian AI Healthtech Startups Transforming Healthcare in 2025', 'snippet': 'Dec 24, 2025 · Explore the best Indian AI healthcare startups in 2025, transforming diagnostics, monitoring, and preventive care with innovations from Qure.ai, Niramai, SigTuple, and more.', 'link': 'https://www.analyticsinsight.net/artificial-intelligence/10-best-indian-startups-using-ai-to-transform-healthcare-in-2025'}, {'title': 'Top 100 medical and healthcare startups in India 2026', 'snippet': 'Mar 8, 2026 · Daffodil Health is focused on automating health plan administration and claims processing. It uses AI and large language models (LLMs) to automate healthcare pricing and administration, focusing on reducing administrative costs.', 'link': 'https://www.medicalstartups.org/country/India/'}]
+[{'title': '3 Indian AI Startups That Are Quietly Revolutionizing Our Healthcare | by Soumyadeep Roy, PhD | Medium', 'snippet': 'July 15, 2025 - 3 Indian AI Startups That Are Quietly Revolutionizing Our Healthcare I’ve spent over six years in AI research, but what’s happening in India’s medical tech scene right now is something else …', 'link': 'https://medium.com/@soumyadeeproy/top-medical-ai-startups-from-india-in-2025-technology-and-impact-explained-9b71002d36b3'}, {'title': '10 Best Indian Startups Using AI to Transform Healthcare in 2025 | Dailyhunt', 'snippet': "December 24, 2025 - Dozee helps hospitals upgrade their beds and track the health of critical patients with less effort. ... Predible Health is now a part of nference labs. This is one of India's growing digital health startups that uses advanced AI methods.", 'link': 'https://m.dailyhunt.in/news/india/english/analytics+insight-epaper-anycinst/10+best+indian+startups+using+ai+to+transform+healthcare+in+2025-newsid-n694381163'}, {'title': 'Top startups in Native AI in Healthcare in India (Jan, 2026) - Tracxn', 'snippet': 'January 11, 2026 - There are 123 Native AI in Healthcare startups in India which include Innovaccer, Eka Care, Doceree, Qure.ai, SigTuple.', 'link': 'https://tracxn.com/d/explore/native-ai-in-healthcare-startups-in-india/__KIHHuaBJBYBU6ve5YGXs1pco5pOrgob_2DWmjE7RKsw/companies'}, {'title': 'Top 10 HealthTech AI Startups to Know: The Builders Reshaping India’s Healthcare Future', 'snippet': 'March 30, 2026 - Sunita Kapoor, Founder & Director, City X-Ray & Scan Clinic, presented the award for Top 10 HealthTech AI Startups to Know to Janitri · Founded in 2016 by Arun Agarwal, Janitri set out with a focused mission to make fetal and maternal monitoring affordable and accessible across India.', 'link': 'https://www.digitalhealthnews.com/top-10-healthtech-ai-startups-to-know-the-builders-reshaping-india-s-healthcare-future'}, {'title': '5 Indian AI startup quietly making healthcare affordable - Krea', 'snippet': 'November 22, 2024 - In fact, working in the background, quietly and surely, are many Indian AI startups that have been making promising strides in ensuring affordable healthcare for all. Who these startups are and how they’re doing it is what we will be exploring in this article. SigTuple: Digitizing Slides & Fostering Telemedicine · Co-founded by Tathagato Rai Dastidar, SigTuple’s goal is to make the life of a doctor easier by using AI to automate screening and analysis of medical data (mainly in pathology and ophthalmology).', 'link': 'https://krea.in/5-indian-ai-startups-making-healthcare-affordable/'}]
+[{'title': 'Top 10 Indian AI Healthcare Startups Revolutionizing Medicine ...', 'snippet': 'Nov 16, 2025 · These “Indian AI healthcare startups” are making quality care affordable, accessible, and timely for millions. This blog identifies the top 10 disruptors, with their missions, innovations, and impact, helping you stay ahead in healthtech trends for 2025.', 'link': 'https://irrespub.com/top-10-indian-ai-healthcare-startups-2025/'}, {'title': 'Top Indian AI Healthtech Startups Transforming Healthcare in 2025', 'snippet': 'Dec 24, 2025 · Explore the best Indian AI healthcare startups in 2025, transforming diagnostics, monitoring, and preventive care with innovations from Qure.ai, Niramai, SigTuple, and more.', 'link': 'https://www.analyticsinsight.net/artificial-intelligence/10-best-indian-startups-using-ai-to-transform-healthcare-in-2025'}, {'title': 'Top startups in Native AI in Healthcare in India (Jan, 2026 ...', 'snippet': 'Jan 11, 2026 · Discover the top emerging companies in the Native AI in Healthcare Startups in India, their funding activity, key investors, company highlights, and growth stages', 'link': 'https://tracxn.com/d/explore/native-ai-in-healthcare-startups-in-india/__KIHHuaBJBYBU6ve5YGXs1pco5pOrgob_2DWmjE7RKsw/companies'}, {'title': 'Top 10 Best Indian Startups in AI-Powered Healthcare 2025', 'snippet': 'Jan 28, 2025 · Discover the top 10 Indian startups in AI-powered healthcare in 2025, revolutionizing medical diagnostics, treatment, and patient care.', 'link': 'https://www.inventiva.co.in/trends/startups-in-ai-powered-healthcare/'}, {'title': '10 Indian Startups Transforming Healthcare with AI (2025)', 'snippet': 'Mar 22, 2025 · Discover 10 Indian startups revolutionizing healthcare with AI, from faster diagnostics to life-saving innovations shaping the future.', 'link': 'https://www.desiai.ai/indian-startups-transforming-healthcare-with-ai/'}]
+[{'title': 'Top 20 Healthcare Startups In India: AI & HealthTech', 'snippet': 'Combined with Make-in-India incentives and faster IVD approvals, startups are building localized, exportable care-delivery ecosystems optimized for ...', 'link': 'https://www.growthjockey.com/blogs/healthcare-startups-in-india'}, {'title': 'Top AI Startups in India', 'snippet': 'The AI startup ecosystem in India is vibrant and diverse, with many more companies pushing the boundaries of what’s possible.', 'link': 'https://www.layaksingh.com/post/discover-emerging-ai-startups-in-india'}, {'title': 'Top 20 Best Artificial Intelligence Startups in India', 'snippet': '... in this article, we have listed the top 20 best AI ... Qure.ai remains a top pick among AI Startups in India that reimagine medical diagnostics.', 'link': 'https://www.techupdates.net/best-ai-startups-in-india/'}, {'title': 'Top AI-Driven Indian Startups disrupting the Healthcare space -', 'snippet': 'Biopeak , founded in 2025, is an AI-driven healthtech startup transforming preventive and longevity medicine. ... AI is an Indian healthtech startup ...', 'link': 'https://timesofstartups.com/india/top-ai-driven-indian-startups-disrupting-the-healthcare-space/'}, {'title': 'Top 10 Indian Startups Powering Healthcare with AI', 'snippet': 'Against this backdrop of scale and innovation, here are the top 10 Indian healthtech startups leading the race. ... ai Qure.ai builds AI-powered ...', 'link': 'https://analyticsindiamag.com/ai-trends/top-10-indian-startups-powering-healthcare-with-ai/'}]
+[{'title': 'Top 20 Healthcare Startups In India: AI & HealthTech', 'snippet': 'Reddy’s) remain top healthcare companies in India [1] . ... and e-health platforms have emerged as vital infrastructure in India’s healthcare mix ...', 'link': 'https://www.growthjockey.com/blogs/healthcare-startups-in-india'}, {'title': 'Top AI-Driven Indian Startups disrupting the Healthcare space -', 'snippet': 'Humn Health , founded in 2024, is an AI-driven healthtech startup dedicated to predictive healthcare and proactive risk management.', 'link': 'https://timesofstartups.com/india/top-ai-driven-indian-startups-disrupting-the-healthcare-space/'}, {'title': 'Top 10 Indian Startups Powering Healthcare with AI | AI', 'snippet': '... innovation, here are the top 10 Indian ... The post Top 10 Indian Startups Powering Healthcare with AI appeared first on Analytics India Magazine.', 'link': 'https://aidigitalnews.com/ai/top-10-indian-startups-powering-healthcare-with-ai/'}, {'title': 'Top 10 Indian AI Healthcare Startups Revolutionizing Medicine', 'snippet': 'Top Indian AI healthcare startups of 2025, mapped with their solutions and locations—showcasing the innovators transforming India’s health sector ...', 'link': 'https://irrespub.com/top-10-indian-ai-healthcare-startups-2025/'}, {'title': 'Leading AI Healthcare Startups in India - Analytics Drift', 'snippet': 'Another name among leading AI healthcare startups in India is SigTuple , which has been providing AI-based healthcare diagnostic solutions since 2015.', 'link': 'https://analyticsdrift.com/leading-ai-healthcare-startups-in-india/'}]
+[{'title': '100 Top AI (Artificial Intelligence) Companies in India · May ...', 'snippet': 'May 1, 2026 · Detailed info and reviews on 100 top AI (Artificial Intelligence) companies and startups in India in 2026. Get the latest updates on their products, jobs, funding, investors, founders and more.', 'link': 'https://www.f6s.com/companies/artificial-intelligence/india/co'}, {'title': 'Top 50 AI-Ready Indian Startups 2026 - Times of Startups', 'snippet': 'Feb 27, 2026 · Discover the Top 50 AI-Ready Indian Startups 2026 shaping India’s AI-first future across fintech, SaaS, healthcare, logistics, agritech, and infrastructure. An exclusive report by Times of Startups.', 'link': 'https://timesofstartups.com/artificial-intelligence-2/top-50-ai-ready-indian-startups-2026/'}, {'title': 'Top 50 Best AI Startup Companies in India 2026 | AI Leaders', 'snippet': 'Explore 50 ai startup companies in India for 2026, including Fractal Analytics, Haptik AI, Qure.ai, Yellow.ai, and more driving innovation and business growth.', 'link': 'https://www.sutrahr.com/top-ai-startup-companies/'}, {'title': 'Top 20 AI Startups in India | 2028 | bestStartup', 'snippet': 'Jul 31, 2025 · If you want to stay ahead of the curve, these are the top 20 AI startups in India you need to follow into 2028. From generative AI pioneers to medical diagnostics innovators, these companies are pushing boundaries—from Bengaluru’s language labs to Delhi’s cyber defense hubs.', 'link': 'https://beststartup.in/top-20-ai-startups-in-india-2028-to-watch/'}, {'title': '100 Top AI Start-ups in India 2026: Ecosystem Report & Insights', 'snippet': 'Mar 25, 2026 · Top AI start-ups in India are no longer experimenting but scaling real-world AI, and this report unpacks the 100 companies leading that shift', 'link': 'https://zinnov.com/innovation/100-top-ai-start-ups-in-india-the-2026-report/'}]
+[{'title': 'Top AI Startups and Companies in London | Startups of London', 'snippet': 'Here’s the list of the top AI startups in London and what you need to know about them. ... Increasingly to learn about how they achieved their ...', 'link': 'https://startupsoflondon.com/top-ai-startups-and-companies-in-london/'}, {'title': 'AI/ML Startups List | Startups of London', 'snippet': 'Also, Increasingly , a London-based AI startup that uses machine learning to automate product bundling on retail websites is one of the rising stars ...', 'link': 'https://startupsoflondon.com/category/ai-ml/'}, {'title': 'List of Top 10 AI Startup Companies in London, UK, Europe,', 'snippet': 'This article highlights the top 10 AI startup companies in London, UK, Europe, Asia, China, India, and the USA in 2024.', 'link': 'https://iotworldmagazine.com/2024/09/02/2417/list-of-top-10-ai-startup-companies-in-london-uk-europe-asia-china-india-and-the-usa-in-2024-and-2025'}, {'title': 'List of Top 10 AI in Genomics Startups in London, UK &', 'snippet': 'List of Top 10 AI in Genomics Startups in London, UK Europe, New York, Paris, China, India, UAE and Saudi in 2025 ... top 10 AI in genomics startups ...', 'link': 'https://iotworldmagazine.com/2025/02/27/2736/list-of-top-10-ai-in-genomics-startups-in-london-uk-europe-new-york-paris-china-india-uae-and-saudi-in-2025'}, {'title': 'Top AI Startups in London to Watch in 2026', 'snippet': 'We can ’ t talk about top AI startups in London without mentioning universities. ... Top AI startups in London to watch in 2026 are not just ...', 'link': 'https://cleartwo.co.uk/ai-startups-london-to-watch-in-2026/'}]
+[{'title': 'Top AI Startups in NYC: 2026 Industry Leaders', 'snippet': 'Top AI Startups in NYC: The Ultimate Guide to New York’s Tech Leaders ... If you are looking for the Top AI Startups in NYC , you are in the right ...', 'link': 'https://techprimex.com/top-ai-startups-nyc/'}, {'title': 'Top 10 AI Companies in New York (2026): The Leading Artificial', 'snippet': 'This guide provides a comprehensive analysis of the Top 10 AI Companies in New York in 2026 , based on innovation, enterprise adoption ...', 'link': 'https://evertise.net/blog-post/top-10-ai-companies-in-new-york-2026-the-leading-artificial-intelligence-startups-enterprises-in-nyc/'}, {'title': '5 AI Startups to Check Out - New York Weekly', 'snippet': 'Here are 5 of the top 5 AI startups that are creating buzz, generating headlines, and breaking boundaries to what’ s possible in the world of tech ...', 'link': 'https://nyweekly.com/tech/5-ai-startups-to-check-out/'}, {'title': 'Top NYC Startups Pushing The Boundaries Of AI And Machine', 'snippet': 'New York City, a metropolis renowned for its fast-paced energy and cultural diversity, is rapidly emerging as a global epicentre for artificial ...', 'link': 'https://invidiatamagazine.com/top-nyc-startups-pushing-the-boundaries-of-ai-and-machine-learning/'}, {'title': 'AI (Artificial Intelligence) Startups funded by Y Combinator', 'snippet': 'AI (Artificial Intelligence) Startups funded by Y Combinator (YC) in New York 2025 ... in New York, these are some of the hottest and fastest-growing ...', 'link': 'https://www.ycombinator.com/companies/industry/ai/new-york'}]
+[{'title': 'Top AI Startups in India', 'snippet': 'As I reflect on the journey of these emerging AI startups in India, it’s clear that their potential goes far beyond national borders.', 'link': 'https://www.layaksingh.com/post/discover-emerging-ai-startups-in-india'}, {'title': 'India’s Top 5 AI startups: Here is what they do and what', 'snippet': 'India s Top 5 AI startups: Here is what they do and what their ... India ’ s Top 5 AI startups: Here is what they do and what their LLMs do', 'link': 'https://indianexpress.com/article/technology/tech-news-technology/indias-top-5-ai-startups-here-is-what-the-do-and-what-their-llms-are-10353903/'}, {'title': 'Top 10 AI Startups in India', 'snippet': 'Top 10 AI Startups in India , discover the cutting-edge innovations shaping the future with our comprehensive list.', 'link': 'https://pioneertoday.in/top-10-ai-startups-in-india/'}, {'title': 'Top 5 AI Startups In India. - WireUnwired Research', 'snippet': 'Top 5 AI Startups In India. ... time to look at India’s A.I startups and evaluate the top A.I startups In India ... Top 5 AI startups in India.', 'link': 'https://wireunwired.com/top-5-ai-startups-in-india/'}, {'title': 'Top AI Startups in India 2025 | TechRound', 'snippet': 'With a large pool of highly qualified engineers, increasing government support and robust venture capital interest, Indian AI startups are not merely ...', 'link': 'https://techround.co.uk/startups/top-ai-startups-in-india-2025/'}]
+[{'title': 'Top AI Startups in India', 'snippet': 'As I reflect on the journey of these emerging AI startups in India, it’s clear that their potential goes far beyond national borders.', 'link': 'https://www.layaksingh.com/post/discover-emerging-ai-startups-in-india'}, {'title': 'India’s Top 5 AI startups: Here is what they do and what', 'snippet': 'India s Top 5 AI startups: Here is what they do and what their ... India ’ s Top 5 AI startups: Here is what they do and what their LLMs do', 'link': 'https://indianexpress.com/article/technology/tech-news-technology/indias-top-5-ai-startups-here-is-what-the-do-and-what-their-llms-are-10353903/'}, {'title': 'Top 10 AI Startups in India', 'snippet': 'Top 10 AI Startups in India , discover the cutting-edge innovations shaping the future with our comprehensive list.', 'link': 'https://pioneertoday.in/top-10-ai-startups-in-india/'}, {'title': 'Top 5 AI Startups In India. - WireUnwired Research', 'snippet': 'Top 5 AI Startups In India. ... time to look at India’s A.I startups and evaluate the top A.I startups In India ... Top 5 AI startups in India.', 'link': 'https://wireunwired.com/top-5-ai-startups-in-india/'}, {'title': 'Top AI Startups in India 2025 | TechRound', 'snippet': 'With a large pool of highly qualified engineers, increasing government support and robust venture capital interest, Indian AI startups are not merely ...', 'link': 'https://techround.co.uk/startups/top-ai-startups-in-india-2025/'}]
+[{'title': 'Top 20 Healthcare Startups In India: AI & HealthTech', 'snippet': 'Reddy’s) remain top healthcare companies in India [1] . ... and e-health platforms have emerged as vital infrastructure in India’s healthcare mix ...', 'link': 'https://www.growthjockey.com/blogs/healthcare-startups-in-india'}, {'title': 'Top AI-Driven Indian Startups disrupting the Healthcare space -', 'snippet': 'Humn Health , founded in 2024, is an AI-driven healthtech startup dedicated to predictive healthcare and proactive risk management.', 'link': 'https://timesofstartups.com/india/top-ai-driven-indian-startups-disrupting-the-healthcare-space/'}, {'title': 'Top 10 Indian Startups Powering Healthcare with AI | AI', 'snippet': '... innovation, here are the top 10 Indian ... The post Top 10 Indian Startups Powering Healthcare with AI appeared first on Analytics India Magazine.', 'link': 'https://aidigitalnews.com/ai/top-10-indian-startups-powering-healthcare-with-ai/'}, {'title': 'Top 10 Indian AI Healthcare Startups Revolutionizing Medicine', 'snippet': 'Top Indian AI healthcare startups of 2025, mapped with their solutions and locations—showcasing the innovators transforming India’s health sector ...', 'link': 'https://irrespub.com/top-10-indian-ai-healthcare-startups-2025/'}, {'title': 'Leading AI Healthcare Startups in India - Analytics Drift', 'snippet': 'Another name among leading AI healthcare startups in India is SigTuple , which has been providing AI-based healthcare diagnostic solutions since 2015.', 'link': 'https://analyticsdrift.com/leading-ai-healthcare-startups-in-india/'}]
+[{'title': 'Top startups in Native AI in Healthcare in India (Jan, 2026) - Tracxn', 'snippet': 'January 11, 2026 - There are 123 Native AI in Healthcare startups in India which include Innovaccer, Eka Care, Doceree, Qure.ai, SigTuple.', 'link': 'https://tracxn.com/d/explore/native-ai-in-healthcare-startups-in-india/__KIHHuaBJBYBU6ve5YGXs1pco5pOrgob_2DWmjE7RKsw/companies'}, {'title': 'Top 10 HealthTech AI Startups to Know: The Builders Reshaping India’s Healthcare Future', 'snippet': 'March 30, 2026 - Sunita Kapoor, Founder & Director, City X-Ray & Scan Clinic, presented the award for Top 10 HealthTech AI Startups to Know to Janitri · Founded in 2016 by Arun Agarwal, Janitri set out with a focused mission to make fetal and maternal monitoring affordable and accessible across India. At a time when preventable maternal complications remain a systemic concern, Janitri built indigenous monitoring devices and digital platforms designed specifically for Indian hospital realities. Today, their solutions are being adopted across multiple healthcare institutions, and their recent collaboration with the Assam government signals expanding integration within public health systems.', 'link': 'https://www.digitalhealthnews.com/top-10-healthtech-ai-startups-to-know-the-builders-reshaping-india-s-healthcare-future'}, {'title': '3 Indian AI Startups That Are Quietly Revolutionizing Our Healthcare | by Soumyadeep Roy, PhD | Medium', 'snippet': 'July 15, 2025 - These startups represent the forefront of AI innovation in Indian healthcare, offering scalable solutions that improve diagnostics, monitoring, personalized treatment, and patient engagement.', 'link': 'https://medium.com/@soumyadeeproy/top-medical-ai-startups-from-india-in-2025-technology-and-impact-explained-9b71002d36b3'}, {'title': '5 Indian AI startup quietly making healthcare affordable - Krea', 'snippet': 'November 22, 2024 - Today, India’s healthtech market is being disrupted by 4K+ startups using AI and ML technologies to revolutionize healthcare end-to-end, from automated scanning of medical images, to providing virtual assistance for mental health and physical illness. In this article, we look at the business models developed by 5 such leading startups in this segment', 'link': 'https://krea.in/5-indian-ai-startups-making-healthcare-affordable/'}, {'title': 'Top 100 medical and healthcare startups in India 2026', 'snippet': 'Funding: $34.6M CureBay is a healthcare platform to connect patients in underserved markets to healthcare providers. ... Funding: $33.2M Dozee offers сontactless Remote Patient Monitoring (RPM) & AI-based triaging system ... Funding: $29.5M Wysa is an AI conversational agent that has been shown to help improve mental health ... Funding: $25.5M Cureskin is an AI powered application that provides derma care through mobile devices. ... Funding: $24.6M Pandorum Technologies is a biotechnology startup with a distinct synergy of life science and engineering competences focused on tissue engineering.', 'link': 'https://www.medicalstartups.org/country/India/'}]
