@@ -2,7 +2,7 @@ fastapi
 uvicorn
 streamlit
 groq
-duckduckgo-search
+ddgs
 requests
 python-dotenv
 pydantic
