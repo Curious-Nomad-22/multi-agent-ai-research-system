@@ -41,7 +41,9 @@ Search startups across industries and locations
 Generate structured business intelligence results
 AI-assisted company research workflows
 Structured Research Outputs
+
 ---
+
 The system generates:
 
 Company Name
@@ -81,7 +83,9 @@ Contextual Summarization
 Source Retrieval
 AI Response Generation
 System Workflow
+
 ---
+
 User Query
 ↓
 LLM-Based Query Understanding
